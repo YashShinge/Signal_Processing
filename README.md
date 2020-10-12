@@ -1,5 +1,5 @@
 ## Digital Signal Processing
-This repo contains demonstrations of signal processing concepts. 
+This repo contains demonstrations of signal processing concepts.  
 Topics covered: 
 1. Convolutions - Different methods to perform convolutions.
 2. Amplitude response and impulse generation.
